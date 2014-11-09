@@ -1,0 +1,8 @@
+body {
+  #main {
+    border-bottom: 1px solid $page-border-bottom;
+    #content {
+      border-right: 1px solid $sidebar-border;
+    }
+  }
+}
