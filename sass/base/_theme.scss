@@ -1,3 +1,8 @@
+$footer-bg: #ccc !default;
+$sidebar-bg: #f2f2f2 !default;
+$page-border-bottom: darken($footer-bg, 5) !default;
+$sidebar-border: desaturate(darken($sidebar-bg, 7), 10) !default;
+
 body {
   #main {
     border-bottom: 1px solid $page-border-bottom;
