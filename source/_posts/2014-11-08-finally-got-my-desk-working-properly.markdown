@@ -4,7 +4,6 @@ title: "Finally Got My Desk Working Properly"
 date: 2014-11-08 22:27:14 +0800
 comments: true
 categories: tinkering
-publish: false
 ---
 I have been reading about working standing up since two years ago, finally stumble upon an affortable solution. This is what my desk looks like now.
 
@@ -23,4 +22,4 @@ So for any Taiwan folks reading this, here's a list of things I bought:
 
 All of the items add up to about $740NTD. I got 2 tables for my dual screens, and bigger work space is really wonderful. I wished I had taken more pictures during the assembly, but it was pretty straightfoward.
 
-After working without a chair for almost a month, my butt feels much tighter, and my leggs has became stronger. However, I do fatigue much faster during my kung-fu class, it would probably improved after I am more used to the new workspace.
+After working without a chair for almost a month, my butt feels much tighter, and my legs have become stronger. However, I do fatigue much faster during my kung-fu class, it would probably improved after I am more used to the new workspace.
