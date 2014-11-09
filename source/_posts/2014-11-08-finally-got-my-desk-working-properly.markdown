@@ -8,5 +8,3 @@ publish: false
 ---
 I have been reading about working standing up since two years ago, finally found an affortable solution.
 
-
-
