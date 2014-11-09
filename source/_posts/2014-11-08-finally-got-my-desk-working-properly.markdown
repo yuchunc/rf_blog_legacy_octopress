@@ -12,7 +12,7 @@ I have been reading about working standing up since two years ago, finally stumb
 
 [Here is the original post.](http://iamnotaprogrammer.com/Ikea-Standing-desk-for-22-dollars.html)
 
-So for any Taiwanese folk reading this, here's a list of things I bought:
+So for any Taiwan folks reading this, here's a list of things I bought:
 
 # Ikea item list
 
