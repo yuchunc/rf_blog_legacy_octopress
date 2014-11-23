@@ -861,3 +861,32 @@ article {
     }
   }
 }
+
+/****** Resume Page ******/
+#cover_image {
+  display: none;
+}
+
+.clearfix {
+  display: block;
+  height: 1px;
+}
+
+@media screen and (min-width: 751px) {
+  #cover_image {
+    display: inline-block;
+    max-width: 200px;
+    height: auto;
+  }
+
+  #resume_content {
+    display: inline-block;
+  }
+}
+
+@media screen and (min-width: 901px) {
+  #cover_image {
+    display: inline-block;
+    max-width: 300px;
+  }
+}
