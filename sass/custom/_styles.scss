@@ -863,26 +863,47 @@ article {
 }
 
 /****** Resume Page ******/
-#cover_image {
-  display: none;
-}
+.resume.wrapper {
+  #cover_image {
+    display: none;
+  }
 
-.clearfix {
-  display: block;
-  height: 1px;
+  .clearfix {
+    display: block;
+    height: 1px;
+  }
 }
 
 @media screen and (min-width: 751px) {
-  #cover_image {
-    display: inline-block;
-    max-width: 200px;
-    height: auto;
+  .resume.wrapper {
+    text-align: left;
+
+    #cover_image {
+      display: block;
+      max-width: 200px;
+      float: left;
+      img {
+        height: auto;
+      }
+    }
   }
 
   #resume_content {
-    width: 100px;
-    display: inline-block;
+    display: block;
+    text-align: left;
+    padding-left: 1em;
+    float: left;
+    width: 66%;
+    max-width: 530px;
+
+    h2 {
+      margin-top: 0;
+    }
   }
+}
+
+footer {
+  clear: left;
 }
 
 @media screen and (min-width: 901px) {
