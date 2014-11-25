@@ -864,6 +864,10 @@ article {
 
 /****** Resume Page ******/
 .resume.wrapper {
+  li {
+    list-style-type: none;
+  }
+
   #cover_image {
     display: none;
   }
@@ -900,15 +904,9 @@ article {
       margin-top: 0;
     }
   }
-}
 
-footer {
-  clear: left;
-}
-
-@media screen and (min-width: 901px) {
-  #cover_image {
-    display: inline-block;
-    max-width: 300px;
+  footer {
+    clear: left;
   }
 }
+
