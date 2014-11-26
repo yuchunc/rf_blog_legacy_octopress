@@ -15,9 +15,13 @@ footer: true
   Mandarine/Chinese, English (TOEIC 960)
 
 ## Experience
+* **[Self-Employed](http://allurecharms.tw) / Baby Wrangling**  
+  *Taipei, 2014/3 - Now*  
+  Wanted to spend more time with our first born, me and my wife started our online charms store. I also took the time to learn at my own pace.
+
 * **[Babylike](http://babylike.tw/)** @ *[DoBao International](http://www.facebook.com/Dollbao/)*  
   *Taipei, 2013/11 - 2014/1*  
-  Incharged of construction of the new site using Rails. As the only full-time developer, I was working with TDD, front-end technology, postgresql and migrate legacy data from the original WordPress site.
+  Incharged of construction of the new site using Rails. As the only full-time developer, I was working with TDD, front-end technology, postgresql and migrating legacy data from the original WordPress site.
 
 * **[BBin Tech](http://www.bbintech.com/)**  
   *Taipei, 2013/7 - 2013/10*  
