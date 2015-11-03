@@ -11,7 +11,7 @@ published: true
 
 So, I finally got in to freelancing and roll with it for a few months, the result?
 
-*There's Plenty of Cases, But Not Enough Dough*
+*There's Plenty of Jobs, But Not Enough Dough*
 
 And I learned plenty the hard way.
 
@@ -26,15 +26,44 @@ getting lazy and wanted to cut cornors by implement yet another Wordpress, and P
 
 <img src="https://teacherorwildlifetrainer.files.wordpress.com/2015/08/double_facepalm.png" width="450">
 
-it turned out the function they want is a pain to build in Wordpress. Zero PHP experience and lack of prior knowledge with the
-framework didn't help here. It was a month in to the project for me to toss out everything and rebuild the project in Rails.
+it turned out the function they want was a pain to build in Wordpress. Zero PHP experience and lack of prior knowledge with the
+framework didn't help here. It was a month in to the project for me to toss out everything and rebuild the project in Rails. If I had
+studied the customer criterias, I could have moved on to the next project already.
 
 ##Leave no imagination space##
-The first project (which I regreted everytook parts in... took up three months of my solid work hours, with *ZERO* returns), wa
+For the first project (which I regreted everytook parts in... took up three months of my solid work hours, with *ZERO* returns) I was
+handed a zip with bunch of assests, and told "get it to run in rails".
+
+It turned out the htmls and assets was not meant for implementation in
+Rails. I was stupid to think it was simple and easy to implement.
+
+They left big chunks of JS actions and CSS adjustment for me to do.
+And I was no where near the agreed schedule.
+
+It looked mighty bad on my part, and rightfully so. It was not a project
+for me from the very beginning.
 
 ##Not every body wants the "Best Practice"##
+Rails enforeced a series of best practices for building the web.
+RestFUL, Assets Precompiling, CSRF Tokens... just to name a few. It is
+great to quickly build reliable and secure web sites.
+
+But... Not everybody wants it...
+
+<img src="http://www.thephilippinepride.com/wp-content/uploads/2014/11/dumb-facebook-users.jpg" width="250">
+
+Yes, they just want it fast, and undercuts you. so yeah....
 
 ##Work Fast##
+
+<img src="http://img1.wikia.nocookie.net/__cb20131222135044/ben10fanfiction/images/5/5f/Kid_Flash_Running.gif">
+
+***Speed is of the Essents***
+
+In the world of the freelancing, speed is everything.
+*You don't deliver, you don't get paid.*
+
+Capisci?
 
 ##Say No##
 
