@@ -67,4 +67,24 @@ Capisci?
 
 ##Say No##
 
+> Time is your biggest and only assets. - Somebody
+
+So learn to say no will save you plenty of life and your sanity. and while you are
+on "saying no training wheels", you are going to feel like an idiot plenty.
+
+During the process of freelancing, you really learn to value your time and energy.
+Thinking too much about the money, you will get burn outs very quickly. You eventually
+learn the price tag for your line of skill. It is helpful for future employment and
+negotiation for cases.
+
+##Conclusion##
+
 > If you want(need) something, Get rid of it. - Glenn Beck
+
+Came across this quote and hold it as guidelines when I need to make a decission.
+When you think you need something that badly, you really need to take a step back
+and think about what you are willing to trade for your want/need. Anywho, untill next
+time~ = )
+
+ps. LOL It is Nov.4th now.
+took me 6 months to finish this post... need to get my acts together.
