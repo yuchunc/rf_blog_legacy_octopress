@@ -44,3 +44,5 @@ The schema for this kind of database are usually call *Star* or *Snowflake*. Cen
 system, and branches being the dimenssions.
 
 The talk went on and suggested some tools for implemanting this idea.
+
+http://victorsavkin.com/post/9209987806/how-to-build-a-data-warehouse-in-4-weeks-part-1
