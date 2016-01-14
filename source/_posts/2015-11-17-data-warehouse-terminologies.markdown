@@ -83,6 +83,12 @@ http://victorsavkin.com/post/9209987806/how-to-build-a-data-warehouse-in-4-weeks
 
 This seems to be a very detailed step by step walk through on building a data warehouse, I have yet to take a closer look.
 
+##There IS ALSO THE DW BIBLE##
+http://www.amazon.com/gp/product/1118530802
+
+Yes, one of those days...
+I'll get around to it.
+
 ##It is Warehouse Time!##
 Some of our colleagues have set out on the quest to build a new and better
 analytical system. This post is acting as a cheatsheet for me to quickly
