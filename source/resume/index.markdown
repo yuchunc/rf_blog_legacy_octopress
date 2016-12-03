@@ -7,16 +7,20 @@ footer: true
 ---
 
 ## Skill
-* **Web**
-  Ruby on Rails, Javascript, HTML / CSS / SCSS
+* **Tech Stack**
+  Ruby (Rails), Elixir (Phoenix), Javascript (React, Redux), GraphQL, HTML / CSS / SCSS
 * **Environment**
   Linux / Mac, Git, MySQL / PostgreSQL / MongoDB
 * **Language**
   Mandarine/Chinese, English (TOEIC 960)
 
 ## Experience
+* **[Optimis Corp](http://optimispt.com/) / Backend Caveman**
+  *Taipei, 2015/6 - Now*
+  Worked on critical pieces of business, including 3rd party insurance service integration, core business data structure design, and explored different tech stacks.
+
 * **[Self-Employed](http://allurecharms.tw) / Baby Wrangling**
-  *Taipei, 2014/3 - Now*
+  *Taipei, 2014/3 - 2015/6*
   Wanted to spend more time with our first born, me and my wife started our online charms store. I also took the time to learn at my own pace, and did freelance projects.
 
 * **[Babylike](http://babylike.tw/)** @ *[DoBao International](http://www.facebook.com/Dollbao/)*
