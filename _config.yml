@@ -23,6 +23,8 @@ url: "http://yuchunc.github.io" # the base hostname & protocol for your site, e.
 twitter_username: yuchunc
 github_username:  yuchunc
 
+timezone: Asia/Taipei
+
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-hydeout
