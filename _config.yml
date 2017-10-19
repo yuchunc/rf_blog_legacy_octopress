@@ -17,19 +17,19 @@ title: Rusty Finger Blog
 email: hey.mickabo@gmail.com
 subtitle: I blog because I can't remember stuff. = P
 description: >- # this means to ignore newlines until "baseurl:"
-  Mickey's blog. Where he learn and break stuff.
+  Mickey's blog. Where he learn some, and break lots.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yuchunc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: yuchunc
 github_username:  yuchunc
-
-timezone: Asia/Taipei
 
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-hydeout
 plugins:
   - jekyll-feed
+
+sidebar_home_link: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
