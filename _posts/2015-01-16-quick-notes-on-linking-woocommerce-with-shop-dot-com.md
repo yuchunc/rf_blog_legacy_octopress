@@ -3,7 +3,7 @@ layout: post
 title: "Quick Notes on Linking Woocommerce with Shop.com"
 date: 2015-01-16 17:36:27 +0800
 comments: true
-categories: SOHO, WooCommerce, Shop.com
+tags: SOHO, WooCommerce, Shop.com
 ---
 
 ####Disclaimer I have 0 experience with php, so yeah...

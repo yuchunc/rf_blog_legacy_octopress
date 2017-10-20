@@ -3,7 +3,7 @@ layout: post
 title: "Some Thoughts After few Months of Freelancing"
 date: 2015-05-14 11:10:11 +0800
 comments: true
-categories: freelancing
+tags: freelancing
 published: true
 ---
 

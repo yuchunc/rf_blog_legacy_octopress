@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Mickey's Resume"
+title: "About Me"
 comments: false
 sharing: true
 sidebar_link: true

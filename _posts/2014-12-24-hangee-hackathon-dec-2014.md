@@ -3,7 +3,7 @@ layout: post
 title: "HanGee Hackathon Dec 2014"
 date: 2014-12-24 21:25:49 +0800
 comments: true
-categories: nodejs, hackathon
+tags: nodejs, hackathon
 ---
 
 <a href="https://www.flickr.com/photos/129247110@N02/16092912371" title="IMG_20141221_173200 by Mickey Chen, on Flickr"><img src="https://farm8.staticflickr.com/7467/16092912371_0d7881bb0e_z.jpg" width="640" height="474" alt="IMG_20141221_173200"></a>
