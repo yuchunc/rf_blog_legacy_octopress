@@ -3,10 +3,14 @@ GEM
   specs:
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
+    coderay (1.1.2)
     colorator (1.1.0)
     faraday (0.13.1)
       multipart-post (>= 1.2, < 3)
     ffi (1.9.18)
+    ffi (1.9.18-java)
+    ffi (1.9.18-x64-mingw32)
+    ffi (1.9.18-x86-mingw32)
     forwardable-extended (2.6.0)
     jekyll (3.6.0)
       addressable (~> 2.4)
@@ -19,6 +23,8 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 3)
       safe_yaml (~> 1.0)
+    jekyll-compose (0.5.0)
+      jekyll (>= 3.0.0)
     jekyll-feed (0.9.2)
       jekyll (~> 3.3)
     jekyll-gist (1.4.1)
@@ -39,11 +45,19 @@ GEM
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
+    method_source (0.9.0)
     multipart-post (2.0.0)
     octokit (4.7.0)
       sawyer (~> 0.8.0, >= 0.5.3)
     pathutil (0.16.0)
       forwardable-extended (~> 2.6)
+    pry (0.11.1)
+      coderay (~> 1.1.0)
+      method_source (~> 0.9.0)
+    pry (0.11.1-java)
+      coderay (~> 1.1.0)
+      method_source (~> 0.9.0)
+      spoon (~> 0.0)
     public_suffix (3.0.0)
     rb-fsevent (0.10.2)
     rb-inotify (0.9.10)
@@ -58,14 +72,28 @@ GEM
     sawyer (0.8.1)
       addressable (>= 2.3.5, < 2.6)
       faraday (~> 0.8, < 1.0)
+    spoon (0.0.6)
+      ffi
+    thread_safe (0.3.6)
+    thread_safe (0.3.6-java)
+    tzinfo (1.2.3)
+      thread_safe (~> 0.1)
+    tzinfo-data (1.2017.2)
+      tzinfo (>= 1.0.0)
 
 PLATFORMS
+  java
   ruby
+  x64-mingw32
+  x86-mingw32
+  x86-mswin32
 
 DEPENDENCIES
   jekyll (~> 3.6.0)
+  jekyll-compose
   jekyll-feed (~> 0.6)
   jekyll-theme-hydeout (~> 3.4)
+  pry
   tzinfo-data
 
 BUNDLED WITH
